@@ -12,11 +12,7 @@ Este projeto é um simulador de órbita terrestre desenvolvido em MATLAB, permit
 
 Abaixo podes ver o simulador em funcionamento, demonstrando a projeção do footprint e a dinâmica orbital:
 
-<p align="center">
-  <video src="VID-20260413-WA0005_1.mp4" width="100%" controls>
-    O seu navegador não suporta a visualização de vídeos.
-  </video>
-</p>
+https://github.com/jplgoncalves/orbitalsat/raw/main/VID-20260413-WA0005_1.mp4
 
 ---
 
