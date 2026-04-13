@@ -1,42 +1,44 @@
-# 🛰️ Simulador de Satélite Virtual - MATLAB
+# 🛰️ Simulador de Satélite Virtual
+> **Projeto desenvolvido em MATLAB para simulação de órbitas LEO.**
 
 <p align="center">
-  <img src="orbitalsatlogo.png" alt="Logo OrbitalSat" width="200">
+  <img src="orbitalsatlogo.png" alt="Logo OrbitalSat" width="250">
 </p>
 
-Este projeto é um simulador de órbita terrestre desenvolvido em MATLAB, permitindo a visualização técnica e dinâmica de satélites em órbita LEO.
+---
+
+## 📺 Demonstração Online
+Assista ao simulador em ação. O vídeo demonstra a renderização 3D da Terra e o cálculo do *footprint* em tempo real.
+
+<p align="center">
+  <video width="100%" height="auto" controls poster="orbitalsatlogo.png">
+    <source src="VID-20260413-WA0005_1.mp4" type="video/mp4">
+    O seu navegador não suporta a visualização de vídeos.
+  </video>
+</p>
 
 ---
 
-## 📺 Demonstração em Vídeo
+## 🚀 Sobre o Projeto
+Este simulador foi criado para visualizar a **Dinâmica Orbital** de satélites de baixa órbita.
 
-Abaixo podes ver o simulador em funcionamento, demonstrando a projeção do footprint e a dinâmica orbital:
-
-https://github.com/jplgoncalves/orbitalsat/raw/main/VID-20260413-WA0005_1.mp4
-
----
-
-## 🚀 Funcionalidades
-
-* **Visualização 3D:** Terra com textura topográfica e iluminação realista.
-* **Dinâmica Orbital:** Simulação de órbita **LEO** (*Low Earth Orbit*) com inclinação ajustável em tempo real.
-* **Sensor de Solo:** Visualização do *footprint* (área de cobertura) do satélite projetada no mapa.
+### 🛠️ Especificações Técnicas
+* **Motor de Gráficos:** MATLAB 3D Engine.
+* **Texturas:** Topografia terrestre de alta resolução com iluminação dinâmica.
+* **Cálculos:** Simulação de órbitas LEO com parâmetros de inclinação ajustáveis.
+* **Projeção:** Algoritmo de cobertura de solo (*footprint*) em tempo real.
 
 ---
 
-## 🛠️ Como rodar
+## 💻 Como Executar localmente
+Se desejas explorar o código fonte e alterar os parâmetros orbitais:
 
-1. Certifica-te de que tens o **MATLAB** instalado (Desktop ou Online).
-2. Faz o download de todos os ficheiros deste repositório.
-3. Abre o ficheiro `orbitalsat.m`.
-4. Clica no botão **Run** ▶️ na barra de ferramentas do MATLAB.
-
----
-
-## 📂 Estrutura do Repositório
-
-* `orbitalsat.m`: Código principal do simulador.
-* `orbitalsatlogo.png`: Identidade visual do projeto.
-* `README.md`: Documentação.
+1. Clone o repositório ou baixe o ficheiro `orbitalsat.m`.
+2. Abra o ambiente **MATLAB** (Desktop ou Online).
+3. Execute o script principal.
 
 ---
+
+<p align="center">
+  Desenvolvido por <b>jplgoncalves</b>
+</p>
