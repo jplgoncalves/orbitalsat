@@ -11,13 +11,9 @@
 O **OrbitalSat** é uma ferramenta técnica desenvolvida para simular o comportamento de satélites em **Low Earth Orbit (LEO)**. O projeto foca-se na precisão visual da projeção do *footprint* (área de cobertura) sobre uma Terra 3D com texturas topográficas.
 
 ### 🎥 Demonstração Operacional
-Assista ao vídeo abaixo para ver a renderização em tempo real e a interface do utilizador:
+[![Demonstração do OrbitalSat](orbitalsat_print.png)](VID-20260413-WA0005_1.mp4)
+*Clique na imagem acima para ver o vídeo da demonstração.*
 
-<p align="center">
-  <video width="100%" style="border: 1px solid #e1e4e8; border-radius: 8px;" controls>
-    <source src="VID-20260413-WA0005_1.mp4" type="video/mp4">
-  </video>
-</p>
 
 ---
 
