@@ -14,7 +14,7 @@ O **OrbitalSat** é uma ferramenta técnica desenvolvida para simular o comporta
 Assista ao vídeo abaixo para ver a renderização em tempo real e a interface do utilizador:
 
 <p align="center">
-  <video width="90%" style="border: 1px solid #e1e4e8; border-radius: 8px;" controls>
+  <video width="50%" style="border: 1px solid #e1e4e8; border-radius: 8px;" controls>
     <source src="VID-20260413-WA0005_1.mp4" type="video/mp4">
   </video>
 </p>
